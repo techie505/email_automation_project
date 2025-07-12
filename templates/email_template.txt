@@ -1,0 +1,8 @@
+Hi {name},
+
+Hope you're doing well!
+
+Please find the project document attached.
+
+Best regards,  
+Anushka Aryan
